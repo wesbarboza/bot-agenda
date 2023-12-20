@@ -1,0 +1,25 @@
+{
+  "name": "bot-agenda",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bot de Agenda da Mentoria",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesbarboza/bot-agenda.git"
+  },
+  "keywords": [
+    "bot",
+    "agenda"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesbarboza/bot-agenda/issues"
+  },
+  "homepage": "https://github.com/wesbarboza/bot-agenda#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
